@@ -21,6 +21,10 @@ BootstrapはUIフレームワークです。フレームワークとは既に出
 - クラス名は既存の命名規則があるため、名前を決める時間を短縮できる
 - HTMLだけであらゆるスタイルを作れる
 
+## 学習
+1. [Bootstrapの基礎]()
+2. [レスポンシブを実装しよう](./responsive-tutorial/responsive-tutorial.md)
+
 
 ## リファレンス
 1. [Bootstrapの使い方！Web開発初心者にもわかりやすく解説](https://udemy.benesse.co.jp/development/system/bootstrap-usage.html)
