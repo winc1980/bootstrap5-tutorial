@@ -24,3 +24,19 @@ Bootstrapには便利なブレイクポイントの機能があります。こ�
   <div class="col-md">col-md</div>
 </div>
 ```
+
+## 様々な画面サイズで適切に余白を作るコンテナ
+
+親要素はとりあえずContainerを設置しておけ！  というくらいコンテナとても重要なBootstrapの機能です。コンテナはデバイスの様々な画面サイズに対してレスポンシブに左右に余白を与え、要素を中心へ配置します。
+
+以下の例ではコンテナの実装を示しています。[index.html](./index.html)で使用例を載せています。
+
+例
+```html
+<div class="container">
+  <div>なにか</div>
+</div>
+```
+
+
+> コンテナの詳細については[公式ドキュメント](https://getbootstrap.jp/docs/5.3/layout/containers/)をご覧ください。

@@ -28,7 +28,7 @@ Final Checkの課題をBootstrapを使ってHTMLだけで書いてみました�
 
 ## 学習
 1. [Bootstrapの基本](./basic/basic.md)
-2. [レスポンシブを実装しよう](./responsive-tutorial/responsive-tutorial.md)
+2. [レスポンシブ対応](./responsive/responsive.md)
 
 
 ## リファレンス
