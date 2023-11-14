@@ -1,7 +1,7 @@
 # bootstrap5-tutorial
 WINC HPチーム学習コンテンツ  
 
-## はじめに
+## 1. はじめに
 CSSはHTMLに装飾を付けるための言語です。これまで私たちはCSSを使ってウェブ制作をしてきましたが、CSSにはいくつかのデメリットがあります。  
 
 **CSSのデメリット**
@@ -13,7 +13,7 @@ CSSは便利な言語ですが、その扱いには少し工夫が必要でし�
 
 今回は、そのUIフレームワークの中で最も人気のある、Bootstrap（ブートスラップ）についてご紹介します。
 
-## Bootstrapとは
+## 2. Bootstrapとは？
 BootstrapはUIフレームワークです。フレームワークとは既に出来上がっている雛形を自分のコードでカスタマイズできるようにしたものをいいます。Bootstrapを使えば、HTMLにクラス名を書くだけでスタイルを決めることができるため、CSSを書くことはほぼありません。
 
 **Bootstrapのメリット**  
@@ -21,8 +21,13 @@ BootstrapはUIフレームワークです。フレームワークとは既に出
 - クラス名は既存の命名規則があるため、名前を決める時間を短縮できる
 - HTMLだけであらゆるスタイルを作れる
 
+## 3. Final CheckをHTMLだけで書いてみた！
+Final Checkの課題をBootstrapを使ってHTMLだけで書いてみました。  
+[./demo/index.html](./demo/index.html)からアクセスできるので、index.htmlをウェブページで開いてみてください。  
+> 皆さんはこれを理解する必要はありません。こんなことできるんだ程度に思って頂ければ幸いです。
+
 ## 学習
-1. [Bootstrapの基礎]()
+1. [Bootstrapの基本](./basic/basic.md)
 2. [レスポンシブを実装しよう](./responsive-tutorial/responsive-tutorial.md)
 
 
