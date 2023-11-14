@@ -33,3 +33,7 @@ Final Checkの課題をBootstrapを使ってHTMLだけで書いてみました�
 
 ## リファレンス
 1. [Bootstrapの使い方！Web開発初心者にもわかりやすく解説](https://udemy.benesse.co.jp/development/system/bootstrap-usage.html)
+
+## 告知！
+### 11月29日から3週連続で、Next.jsとmicroCMSを使った0円CMS構築の講座をやります。
+ぜひご参加ください。
