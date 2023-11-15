@@ -1,12 +1,45 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>responsive-tutorial</title>
+    <title>responsive</title>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
+      crossorigin="anonymous"
+    />
+    <style>
+      .container {
+        background: #cbcbcb;
+      }
+      .col,
+      .col-md {
+        background: #cbcbcb;
+        margin: 10px;
+      }
+    </style>
   </head>
   <body>
-    <h1 class="mt-4">コンポーネント</h1>
+    <h1 class="mt-4">グリッドシステム</h1>
     <hr />
-    <div class="container">コンテナ</div>
+    <div class="row">
+      <div class="col">col</div>
+      <div class="col">col</div>
+      <div class="col">col</div>
+    </div>
+
+    <h1 class="mt-4">グリッドシステムのレスポンシブ</h1>
+    <hr />
+    <div class="row">
+      <div class="col-md">col-md</div>
+      <div class="col-md">col-md</div>
+      <div class="col-md">col-md</div>
+    </div>
+
+    <h1 class="mt-4">コンテナ</h1>
+    <hr />
+    <div class="container">ここがコンテナ</div>
   </body>
 </html>
